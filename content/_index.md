@@ -236,9 +236,7 @@ sections:
     content:
       title: Awards
 
-      
-    __Year:__ 2015
-    __Issuer:__ [Southern Agricultural Economic Association](https://www.saea.org/awards/)
+      text: [Southern Agricultural Economic Association](https://www.saea.org/awards/)
     design:
       columns: '2'      
   
