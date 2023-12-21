@@ -241,13 +241,13 @@ sections:
       phone: (+593-4) 3708-000 ext 2667
       # appointment_url: 'https://calendly.com'
       address:
-        street: Campus Gustavo Galindo, Facultad de Ciencias Sociales y Humanísticas, Km 30.5 vía perimetral.
+        street: Campus Gustavo Galindo, Km 30.5 vía perimetral.
         city: Guayaquil
         region: Guayas
         postcode: '94305'
         country: Ecuador
         country_code: EC
-      directions: Bldg 8C, Office 8C-G105
+      directions: Facultad de Ciencias Sociales y Humanísticas, Bldg 8C, Office 8C-G105
       office_hours:
         - 'Monday 10:00 to 13:00'
         - 'Wednesday 09:00 to 10:00'
@@ -269,7 +269,7 @@ sections:
         #   name: Zoom Me
         #   link: 'https://zoom.com'
       # Automatically link email and phone or display as text?
-        autolink: true
+        # autolink: true
       # # Email form provider
       # form:
       #   provider: netlify
