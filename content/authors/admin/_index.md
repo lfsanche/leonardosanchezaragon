@@ -1,6 +1,6 @@
 ---
 # Display name
-title: LFSA
+title: Leonardo Sánchez-Aragón
 
 # Name pronunciation (optional)
 # name_pronunciation: Chien Shiung Wu
@@ -29,10 +29,10 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
-
+  - Network economics
+  - Absorptive capacity and Organizational Learning
+  - Agricultural Economics
+  
 # Education to show in About widget
 education:
   courses:
@@ -120,5 +120,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Leonardo Sánchez-Aragón is Associate Professor at the ESPOL University. His research interests include estimating agricultural productivity, evaluating the effectiveness of agricultural insurance and weather derivatives, and the impact of social networks. He has served ESPOL as Associate Dean and as Dean of the Faculty of Social and Humanistic Sciences, and Viceminsitry of Economy in Ecuador. Currently, he is associated researcher of Center of Rural Research at ESPOL.
 {style="text-align: justify;"}
