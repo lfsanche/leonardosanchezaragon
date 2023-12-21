@@ -231,6 +231,12 @@ sections:
     design:
       columns: '2'
       view: compact
+
+  - block: tag_cloud
+    content:
+      title: Awards
+    design:
+      columns: '2'      
   
   # - block: tag_cloud
   #   content:
