@@ -236,7 +236,9 @@ sections:
     content:
       title: Awards
 
-      text: [Southern Agricultural Economic Association](https://www.saea.org/awards/)
+      text: |-
+      
+      [Southern Agricultural Economic Association](https://www.saea.org/awards/)
     design:
       columns: '2'      
   
