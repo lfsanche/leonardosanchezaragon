@@ -187,7 +187,7 @@ sections:
       flip_alt_rows: false
   - block: markdown
     content:
-      title: Gallery
+      title: Gallerrrry
       subtitle: ''
       text: |-
         {{< gallery album="demo" >}}
@@ -235,7 +235,7 @@ sections:
   #     title: Popular Topics
   #   design:
   #     columns: '2'
-  
+
   - block: contact
     id: contact
     content:
