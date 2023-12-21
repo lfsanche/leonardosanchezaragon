@@ -189,10 +189,11 @@ sections:
     content:
       title: Gallerrrry
       subtitle: ''
-      text: |-
-        {{< gallery album="demo" >}}
+      # text: |-
+      #   {{< gallery album="demo" >}}
     design:
       columns: '1'
+  
   - block: collection
     id: featured
     content:
