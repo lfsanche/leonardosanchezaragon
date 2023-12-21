@@ -237,9 +237,9 @@ sections:
       text: |-
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
-      phone: 888 888 88 88
-      appointment_url: 'https://calendly.com'
+      email: lfsanche [at] espol [dot] edu [dot] ec
+      phone: (+593-4) 3708-000 ext 2667
+      # appointment_url: 'https://calendly.com'
       address:
         street: Campus Gustavo Galindo, Facultad de Ciencias Sociales y Humanísticas, Km 30.5 vía perimetral.
         city: Guayaquil
