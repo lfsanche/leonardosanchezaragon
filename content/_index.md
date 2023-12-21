@@ -237,7 +237,7 @@ sections:
     content:
       title: Awards
       items:
-        - title: CEO
+        - title: Agricultural
           company: GenCoin
           company_url: ''
           company_logo: org-gc
