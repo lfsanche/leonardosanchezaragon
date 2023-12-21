@@ -233,7 +233,7 @@ sections:
       view: compact
 
 
-  - block: tag_cloud
+  - block: collection
     content:
       title: Awards
       items:
@@ -254,11 +254,11 @@ sections:
     design:
       columns: '2'      
   
-  - block: tag_cloud
-    content:
-      title: Popular Topics
-    design:
-      columns: '2'
+  # - block: tag_cloud
+  #   content:
+  #     title: Popular Topics
+  #   design:
+  #     columns: '2'
 
   - block: contact
     id: contact
