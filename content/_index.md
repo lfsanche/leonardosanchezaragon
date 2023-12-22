@@ -221,6 +221,7 @@ sections:
     design:
       columns: '2'
       view: citation
+
   - block: collection
     id: talks
     content:
@@ -232,6 +233,16 @@ sections:
       columns: '2'
       view: compact
 
+  # - block: collection
+  #   id: 
+  #   content:
+  #     title: Awards
+  #     filters:
+  #       folders:
+  #         - award
+  #   design:
+  #     columns: '2'
+  #     view: compact
 
   - block: collection
     content:
