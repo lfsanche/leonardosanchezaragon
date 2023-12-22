@@ -97,9 +97,8 @@ sections:
       title: Awards
       subtitle: A subtitle
       text: 
-          
-          Outstanding Ph.D. Dissertation Award 2015
-         [Southern Agricultural Economic Association](https://www.saea.org/awards/)
+        Issuer: Outstanding Ph.D. Dissertation Award 2015
+        Web:  [Southern Agricultural Economic Association](https://www.saea.org/awards/)
 
 #                 ### __Outstanding Ph.D. Dissertation Award__
 
@@ -112,7 +111,7 @@ sections:
 # - __Issuer:__ [Banamex1, Mexico](https://www.banamex.com/premioeconomia/pdf/historico-premio-citibanamex-economia.pdf)  
       
       
-      Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+      # Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
     design:
       columns: '2'
 
