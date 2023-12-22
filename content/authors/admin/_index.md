@@ -61,10 +61,10 @@ skills:
         percent: 100
         icon: chart-line
         icon_pack: fas
-      - name: SQL
+      - name: Stata
         description: ''
         percent: 40
-        icon: database
+        icon: Stata
         icon_pack: fas
   # - name: Hobbies
   #   color: '#eeac02'
