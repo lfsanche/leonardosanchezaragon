@@ -233,16 +233,16 @@ sections:
       columns: '2'
       view: compact
 
-  # - block: collection
-  #   id: 
-  #   content:
-  #     title: Awards
-  #     filters:
-  #       folders:
-  #         - award
-  #   design:
-  #     columns: '2'
-  #     view: compact
+  - block: collection
+    id: 
+    content:
+      title: Awards
+      filters:
+        folders:
+          - awards
+    design:
+      columns: '2'
+      view: compact
 
   - block: collection
     content:
