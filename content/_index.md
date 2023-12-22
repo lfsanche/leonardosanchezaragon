@@ -183,6 +183,7 @@ sections:
       # Choose a layout view
       view: compact
       columns: '2'
+
   - block: portfolio
     id: projects
     content:
@@ -240,7 +241,7 @@ sections:
       columns: '2'
       view: citation
 
-   - block: contact
+  - block: contact
     id: contact
     content:
       title: Contact
