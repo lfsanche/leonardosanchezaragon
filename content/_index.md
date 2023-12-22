@@ -99,7 +99,7 @@ sections:
       text: |
          ###  __Outstanding Ph.D. Dissertation Award__
 
-         - _Ye ar:_ 2015
+         - _Year:_ 2015
          - _Issuer:_ [Southern Agricultural Economic Association](https://www.saea.org/awards/)
 
          ###  __Outstanding Ph.D. Dissertation Award__
