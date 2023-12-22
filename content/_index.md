@@ -96,7 +96,24 @@ sections:
     content:
       title: Awards
       subtitle: A subtitle
-      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+      text: 
+              ### __Outstanding Ph.D. Dissertation Award__
+
+          - __Year:__ 2015
+          - __Issuer:__ [Southern Agricultural Economic Association](https://www.saea.org/awards/)
+
+                ### __Outstanding Ph.D. Dissertation Award__
+
+- __Year:__ 2014
+- __Issuer:__ [Department of Agricultural Economics, Texas A&M University](https://agecon.tamu.edu/)
+
+### __The First Place Winners of the Banamex Prize__
+
+- __Year:__ 2012
+- __Issuer:__ [Banamex1, Mexico](https://www.banamex.com/premioeconomia/pdf/historico-premio-citibanamex-economia.pdf)  
+      
+      
+      Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
     design:
       columns: '2'
 
