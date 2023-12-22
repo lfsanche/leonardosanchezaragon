@@ -234,7 +234,7 @@ sections:
       view: compact
 
   - block: collection
-    id: awards
+    # id: awards
     content:
       title: Awards
       filters:
