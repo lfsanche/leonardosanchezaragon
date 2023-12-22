@@ -97,12 +97,12 @@ sections:
       title: Awards
       # subtitle: A subtitle
       text: |
-         ### __Outstanding Ph.D. Dissertation Award__
+         ###  __Outstanding Ph.D. Dissertation Award__
 
-         - _Year:_ 2015
+         - _Ye ar:_ 2015
          - _Issuer:_ [Southern Agricultural Economic Association](https://www.saea.org/awards/)
 
-         ### __Outstanding Ph.D. Dissertation Award__
+         ###  __Outstanding Ph.D. Dissertation Award__
          
          - _Year:_ 2015
          - _Issuer:_  [Department of Agricultural Economics, Texas A&M University](https://agecon.tamu.edu/)
