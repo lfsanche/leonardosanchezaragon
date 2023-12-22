@@ -56,16 +56,16 @@ skills:
         percent: 80
         icon: python
         icon_pack: fab
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-line
-        icon_pack: fas
-      - name: Stata
-        description: ''
-        percent: 40
-        icon: Stata
-        icon_pack: fas
+      # - name: Data Science
+      #   description: ''
+      #   percent: 100
+      #   icon: chart-line
+      #   icon_pack: fas
+      # - name: Stata
+      #   description: ''
+      #   percent: 40
+      #   icon: Stata
+      #   icon_pack: fas
   # - name: Hobbies
   #   color: '#eeac02'
   #   color_border: '#f0bf23'
