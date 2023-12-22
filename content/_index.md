@@ -98,10 +98,8 @@ sections:
       subtitle: A subtitle
       text: 
           
-          Outstanding Ph.D. Dissertation Award
-
-          Year: 2015
-          Issuer: [Southern Agricultural Economic Association](https://www.saea.org/awards/)
+          Outstanding Ph.D. Dissertation Award 2015
+         [Southern Agricultural Economic Association](https://www.saea.org/awards/)
 
 #                 ### __Outstanding Ph.D. Dissertation Award__
 
