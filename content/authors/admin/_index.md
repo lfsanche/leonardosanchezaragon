@@ -56,10 +56,10 @@ skills:
         percent: 80
         icon: python
         icon_pack: fab
-      - name: Stata
+      - name: R
         description: ''
         percent: 80
-        icon: stata
+        icon: r
         icon_pack: fab
       # - name: Data Science
       #   description: ''
