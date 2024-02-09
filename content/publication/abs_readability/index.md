@@ -1,5 +1,5 @@
 ---
-title: "An example journal article"
+title: "Abstract readability: Evidence from top-5 economics journals"
 authors:
 - admin
 - Robert Ford
@@ -61,7 +61,7 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+# slides: example
 ---
 
 {{% callout note %}}
