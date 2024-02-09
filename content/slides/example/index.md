@@ -1,6 +1,6 @@
 ---
 title: Slides
-summary: An introduction to using Hugo Blox Builder's Slides feature.
+summary: Microeconomics.
 authors: []
 tags: []
 categories: []
