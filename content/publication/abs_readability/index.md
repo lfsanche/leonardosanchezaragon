@@ -2,7 +2,7 @@
 title: "Abstract readability: Evidence from top-5 economics journals"
 authors:
 - admin
-- Robert Ford
+- Leo Ford
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
