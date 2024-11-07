@@ -2,7 +2,6 @@
 title: "Abstract readability: Evidence from top-5 economics journals"
 authors:
 - admin
-- Leo Ford
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
@@ -45,10 +44,9 @@ featured: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-cover: 
-  image: jpg/guayaquil-ecuador-skyline.jpg
-  # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
-  focal_point: ""
+image:
+  caption: 'Image credit'
+  focal_point: ''
   preview_only: false
 
 # Associated Projects (optional).
