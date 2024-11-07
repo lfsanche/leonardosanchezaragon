@@ -47,7 +47,7 @@ url_video: ''
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 cover: 
   image: jpg/guayaquil-ecuador-skyline.jpg
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
   focal_point: ""
   preview_only: false
 
