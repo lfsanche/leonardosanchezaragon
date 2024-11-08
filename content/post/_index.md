@@ -1,6 +1,6 @@
 ---
-title: Blogs
-url: /blogs/
+title: Post
+url: /post/
 cms_exclude: true
 
 # View.
