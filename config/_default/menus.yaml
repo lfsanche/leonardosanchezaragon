@@ -16,14 +16,14 @@ main:
     name: Teaching
     url: /teaching/
     weight: 30
-  # - identifier: blog
-  #   name: Blog
-  #   url: /blog/
-  #   weight: 40
-  - identifier: stuff
-    name: Stuff
-    url: /stuff/
-    weight: 50
+  - identifier: blog
+    name: Blog
+    url: /blog/
+    weight: 40
+  # - identifier: stuff
+  #   name: Stuff
+  #   url: /stuff/
+  #   weight: 50
   # - identifier: contact
   #   name: Contact
   #   url: /contact/
