@@ -17,4 +17,4 @@ banner:
 ---
 
 
-[Download PDF](static\uploads\resume.pdf)
+[Download PDF](/static/uploads/resume.pdf)
