@@ -9,7 +9,7 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: Biography4
+      title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: skills
@@ -206,7 +206,7 @@ sections:
           - publication
         exclude_featured: true
     design:
-      columns: '2'
+      columns: '1'
       view: citation
 
   - block: contact
