@@ -211,7 +211,7 @@ sections:
 
   - block: collection
     content:
-      title: Post
+      title: Experience
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications][def].
