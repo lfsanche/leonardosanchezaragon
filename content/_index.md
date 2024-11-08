@@ -243,13 +243,13 @@ sections:
         country: Ecuador
         country_code: EC
       directions: Facultad de Ciencias Sociales y Humanísticas, Bldg 8C, Office 8C-G105
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
-      # Choose a map provider in `params.yaml` to show a map from these coordinates
-      coordinates:
-        latitude: '-2.1482229'
-        longitude: '-79.9683545'  
+      # office_hours:
+      #   - 'Monday 10:00 to 13:00'
+      #   - 'Wednesday 09:00 to 10:00'
+      # # Choose a map provider in `params.yaml` to show a map from these coordinates
+      # coordinates:
+      #   latitude: '-2.1482229'
+      #   longitude: '-79.9683545'  
       contact_links:
         # - icon: twitter
         #   icon_pack: fab
