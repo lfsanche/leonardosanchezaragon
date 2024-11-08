@@ -15,3 +15,6 @@ banner:
   caption: ''
   image: ''
 ---
+
+
+[Download PDF](static\uploads\resume.pdf)
