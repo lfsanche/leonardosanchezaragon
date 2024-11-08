@@ -209,6 +209,21 @@ sections:
       columns: '1'
       view: citation
 
+  - block: collection
+    content:
+      title: Post
+      text: |-
+        {{% callout note %}}
+        Quickly discover relevant content by [filtering publications][def].
+        {{% /callout %}}
+      filters:
+        folders:
+          - post
+        exclude_featured: true
+    design:
+      columns: '1'
+      view: citation
+
   - block: contact
     id: contact
     content:
