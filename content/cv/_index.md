@@ -17,4 +17,6 @@ title: CV
 ---
 
 
-[Download PDF](/static/uploads/resume.pdf)
+[Download PDF](resume.pdf)
+
+
