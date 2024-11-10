@@ -17,8 +17,6 @@ title: CV
 ---
 
 
-<!-- {{< download "resume.pdf" >}} -->
-
 [Download PDF](resume.pdf)
 
 
