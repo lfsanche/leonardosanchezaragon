@@ -24,10 +24,10 @@ main:
   #   name: Stuff
   #   url: /stuff/
   #   weight: 50
-  - identifier: contact
-    name: Contact
-    url: /contact/
-    weight: 60
+  # - identifier: contact
+  #   name: Contact
+  #   url: /contact/
+  #   weight: 60
 
 
   # - name: Posts
