@@ -6,6 +6,7 @@ title: Leonardo Sánchez-Aragón
 # name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
+
 first_name: Leonardo
 last_name: Sánchez-Aragón
 
@@ -24,8 +25,8 @@ organizations:
   - name: ESPOL University
     url: https://www.espol.edu.ec/
 
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# # Short bio (displayed in user profile at end of posts)
+# bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
@@ -130,5 +131,5 @@ social:
 highlight_name: true
 ---
 
-Leonardo Sánchez-Aragón is Associate Professor at the ESPOL University. His research interests include estimating agricultural productivity, evaluating the effectiveness of agricultural insurance and weather derivatives, and the impact of social networks. He has served ESPOL as Associate Dean and as Dean of the Faculty of Social and Humanistic Sciences, and Viceminsitry of Economy in Ecuador. Currently, he is associated researcher of Center of Rural Research at ESPOL. x
+I am Associate Professor at the ESPOL University. My research interests include estimating agricultural productivity, evaluating the effectiveness of agricultural insurance and weather derivatives, and the impact of social networks. I have served ESPOL as Associate Dean and as Dean of the Faculty of Social and Humanistic Sciences, and Viceminsitry of Economy in Ecuador. Currently, I am associated researcher of Center of Economic Research at ESPOL. 
 {style="text-align: justify;"}
