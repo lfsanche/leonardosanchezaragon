@@ -194,35 +194,35 @@ sections:
   #     columns: '2'
   #     view: card
       
-  - block: collection
-    content:
-      title: Recent Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications][def].
-        {{% /callout %}}
-      filters:
-        folders:
-          - publication
-        exclude_featured: true
-    design:
-      columns: '1'
-      view: citation
+  # - block: collection
+  #   content:
+  #     title: Recent Publications
+  #     text: |-
+  #       {{% callout note %}}
+  #       Quickly discover relevant content by [filtering publications][def].
+  #       {{% /callout %}}
+  #     filters:
+  #       folders:
+  #         - publication
+  #       exclude_featured: true
+  #   design:
+  #     columns: '1'
+  #     view: citation
 
-  - block: collection
-    content:
-      title: Experience
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications][def].
-        {{% /callout %}}
-      filters:
-        folders:
-          - post
-        exclude_featured: true
-    design:
-      columns: '1'
-      view: citation
+  # - block: collection
+  #   content:
+  #     title: Experience
+  #     text: |-
+  #       {{% callout note %}}
+  #       Quickly discover relevant content by [filtering publications][def].
+  #       {{% /callout %}}
+  #     filters:
+  #       folders:
+  #         - post
+  #       exclude_featured: true
+  #   design:
+  #     columns: '1'
+  #     view: citation
 
   - block: contact
     id: contact
