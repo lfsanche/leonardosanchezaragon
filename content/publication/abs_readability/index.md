@@ -1,7 +1,7 @@
 ---
 title: "Abstract readability: Evidence from top-5 economics journals"
 authors:
-- admin
+- Belicia Rodriguez, David Jacho, Kim, Leonardo Sanchez
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
