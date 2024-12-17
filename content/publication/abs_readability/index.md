@@ -25,7 +25,7 @@ abstract: Lorem $\alpha$  ipsum dolor sit amet, consectetur adipiscing elit. Dui
 
 For
 
-[Repositoy](https://github.com/lfsanche/econ_letters/tree/main)
+[Repositoy](https://github.com/lfsanche/econ_letters)
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
