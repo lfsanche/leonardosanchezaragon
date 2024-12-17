@@ -8,10 +8,10 @@ main:
     name: Home
     url: /home/
     weight: 10
-  # - identifier: publications
-  #   name: Publications
-  #   url: /publications/
-  #   weight: 20
+  - identifier: publications
+    name: Publications
+    url: /publications/
+    weight: 20
   # - identifier: teaching
   #   name: Teaching
   #   url: /teaching/
