@@ -20,8 +20,12 @@ publication_types: ['article-journal']
 publication: "*Journal of Source Themes, 1*(1)"
 publication_short: ""
 
-abstract: Lorem $\alpha$  ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
+abstract: Readability is a measure of how easy it is to read a text. Over time, general-interest journals have become more
+ technical. This affects how accessible research is to a general audience. Our analysis looks at how readable
+ abstracts are. We study the readability of abstracts of top five economics journals between 2000–2019. We
+ collect the characteristics of the abstracts, papers, and authors of these papers. We find that abstracts with
+ higher proportion of women co-authors are more readable. These results are robust to various readability
+ measures and model specifications.
 
 For
 
