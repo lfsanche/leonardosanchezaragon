@@ -22,7 +22,7 @@ publication_types: ['article-journal']
 
 # Publication name and optional abbreviated publication name.
 publication: "*Economics Letters*, Volume 235"
-publication_short: EL
+publication_short: Economics Letters
 
 abstract: Readability is a measure of how easy it is to read a text. Over time, general-interest journals have become more  technical. This affects how accessible research is to a general audience. Our analysis looks at how readable  abstracts are. We study the readability of abstracts of top five economics journals between 2000 2019. We collect the characteristics of the abstracts, papers, and authors of these papers. We find that abstracts with higher proportion of women co-authors are more readable. These results are robust to various readability measures and model specifications.
 
