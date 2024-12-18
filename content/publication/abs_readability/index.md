@@ -44,11 +44,11 @@ links:
 # url_pdf: 'https://www.sciencedirect.com/science/article/pii/S0165176524000259'
 url_code: 'https://github.com/lfsanche/econ_letters/tree/main/code'
 url_dataset: 'https://github.com/lfsanche/econ_letters/tree/main/data'
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
+# url_source: ''
+# url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
