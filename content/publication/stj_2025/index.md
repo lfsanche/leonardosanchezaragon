@@ -15,7 +15,7 @@ author_notes:
 - ESPOL University
 
 date: '2025-03-01T00:00:00Z'
-doi: ' '
+# doi: ' '
 
 
 # Publication type.
