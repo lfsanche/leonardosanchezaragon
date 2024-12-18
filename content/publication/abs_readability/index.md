@@ -1,17 +1,21 @@
 ---
 title: "Abstract readability: Evidence from top-5 economics journals"
 authors:
-- Belicia Rodriguez, Kim P. Huynh, David T. Jacho-Chávez, and Leonardo Sánchez-Aragón
+- Belicia Rodriguez
+- Kim P. Huynh
+- David T. Jacho-Chávez
+- Leonardo Sánchez-Aragón
   
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "February 2024"
+# - "Equal contribution"
+# - "Equal contribution"
+
+# date: 
 doi: "10.1016/j.econlet.2024.111541"
 supp: "Rodriguez, et al, 2024, supp material.pdf"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "February 2024"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -22,21 +26,16 @@ publication_types: ['article-journal']
 publication: "*Economics Letters*, Vol. 235"
 publication_short: ""
 
-abstract: Readability is a measure of how easy it is to read a text. Over time, general-interest journals have become more
- technical. This affects how accessible research is to a general audience. Our analysis looks at how readable
- abstracts are. We study the readability of abstracts of top five economics journals between 2000 2019. We
- collect the characteristics of the abstracts, papers, and authors of these papers. We find that abstracts with
- higher proportion of women co-authors are more readable. These results are robust to various readability
- measures and model specifications.
+abstract: Readability is a measure of how easy it is to read a text. Over time, general-interest journals have become more  technical. This affects how accessible research is to a general audience. Our analysis looks at how readable  abstracts are. We study the readability of abstracts of top five economics journals between 2000 2019. We collect the characteristics of the abstracts, papers, and authors of these papers. We find that abstracts with higher proportion of women co-authors are more readable. These results are robust to various readability measures and model specifications.
 
 # [Repositoy]()
 
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# # Summary. An optional shortened abstract.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags:
-- Source Themes
-featured: false
+# tags:
+# - Source Themes
+# featured: false
 
 links:
 - name: ""
