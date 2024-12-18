@@ -15,8 +15,7 @@ author_notes:
 - ESPOL University
 
 date: '2025-03-01T00:00:00Z'
-# doi: ' '
-
+doi: '10.1016/j.econlet.2024.111541'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -27,7 +26,7 @@ publication_types: ['article-journal']
 publication: "*Stata Journal*"
 publication_short: Stata Journal
 
-abstract: The command netivreg implements the Generalized Three-Stage  Least Squares (G3SLS) estimator developed in Estrada (2022, Causal Inference  in Multilayered Networks ) and the Generalized Method of Moments (GMM) estimator in Chan et al. (2024, Estimating Social Effects with Randomized and  Observational Network Data ) for the endogenous linear-in-means model. The  two procedures utilize full observability of a two-layered multiplex network data  structure using Statas new multiframes capabilities and Python integration (version 16 and above). Applications of the command include simulated data and  three years worth of data on peer-reviewed articles published in top general interest journals in Economics.
+abstract: The command netivreg implements the Generalized Three-Stage Least Squares (G3SLS) estimator developed in Estrada (2022, Causal Inference  in Multilayered Networks ) and the Generalized Method of Moments (GMM) estimator in Chan et al. (2024, Estimating Social Effects with Randomized and  Observational Network Data ) for the endogenous linear-in-means model. The  two procedures utilize full observability of a two-layered multiplex network data  structure using Statas new multiframes capabilities and Python integration (version 16 and above). Applications of the command include simulated data and  three years worth of data on peer-reviewed articles published in top general interest journals in Economics.
 
 # [Repositoy]()
 
