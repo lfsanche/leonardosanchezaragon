@@ -72,7 +72,7 @@ projects: []
 # slides: example
 ---
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Hola a todos
 
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -80,6 +80,6 @@ Click the *Cite* button above to demo the feature to enable visitors to import p
 
 {{% callout note %}}
 Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
+{{% /callout %}} -->
 
 Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](Rodriguez, et al, 2024, supp material.pdf).
