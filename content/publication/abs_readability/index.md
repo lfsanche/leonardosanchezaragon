@@ -7,18 +7,14 @@ authors:
 - Leonardo Sánchez-Aragón
   
 author_notes:
-- 'Department of Economics, Emory University, Rich Building 306, 1602 Fishburne Dr., Atlanta, GA 30322-2240, USA.
- E-mail: belicia.rodriguez@outlook.com.'
-- 'Bank of Canada, 234 Wellington Ave., Ottawa ON, K1A 0G9, Canada. E-mail: khuynh@bankofcanada.ca. The views
- expressed here do not necessarily represent the views of the Bank of Canada'
-- 'Corresponding Author. Department of Economics, Emory University, Rich Building 306, 1602 Fishburne Dr., Atlanta,GA 30322-2240, USA. E-mail: djachocha@emory.edu'
-- 'Escuela Superior Politecnica del Litoral, ESPOL, Facultad de Ciencias Sociales y Humansticas, Campus Gustavo Galindo  Km. 30.5 Va Perimetral, P.O. Box 09-01-5863, Guayaquil, Ecuador. E-mail: lfsanche@espol.edu.ec.'
-# - "Equal contribution"
-# - "Equal contribution"
+- 'Department of Economics, Emory University'
+- 'Bank of Canada'
+- 'Department of Economics, Emory University'
+- 'ESPOL University'
 
 # date: 
 doi: "10.1016/j.econlet.2024.111541"
-supp: "Rodriguez, et al, 2024, supp material.pdf"
+
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "February 2024"
