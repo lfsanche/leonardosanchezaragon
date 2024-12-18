@@ -14,7 +14,7 @@ author_notes:
 - Department of Economics, Emory University
 - ESPOL University
 
-date: '2025-03-01T00:00:00Z'
+date: '2024-12-01T00:00:00Z'
 # doi: ' '
 
 # Publication type.
