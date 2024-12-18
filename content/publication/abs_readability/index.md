@@ -12,12 +12,8 @@ author_notes:
 - Department of Economics, Emory University
 - ESPOL University
 
-# date: 
-doi: "10.1016/j.econlet.2024.111541"
-
-
-# Schedule page publish date (NOT publication's date).
-date: '2024-02'
+date: '2024-02-01T00:00:00Z'
+doi: '10.1016/j.econlet.2024.111541'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -26,6 +22,7 @@ publication_types: ['article-journal']
 
 # Publication name and optional abbreviated publication name.
 publication: "*Economics Letters*, Vol. 235"
+publication_short: EL
 
 abstract: Readability is a measure of how easy it is to read a text. Over time, general-interest journals have become more  technical. This affects how accessible research is to a general audience. Our analysis looks at how readable  abstracts are. We study the readability of abstracts of top five economics journals between 2000 2019. We collect the characteristics of the abstracts, papers, and authors of these papers. We find that abstracts with higher proportion of women co-authors are more readable. These results are robust to various readability measures and model specifications.
 
