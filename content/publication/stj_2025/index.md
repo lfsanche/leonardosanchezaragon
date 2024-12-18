@@ -14,10 +14,9 @@ author_notes:
 - Department of Economics, Emory University
 - ESPOL University
 
-# date: 2025-03-01T00:00:00Z'
+date: '2025-03-01T00:00:00Z'
 doi: ' '
 
-custom_status = 'Forthcoming'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
