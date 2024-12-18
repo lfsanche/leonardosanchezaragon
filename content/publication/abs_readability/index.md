@@ -38,7 +38,7 @@ abstract: Readability is a measure of how easy it is to read a text. Over time, 
 links:
 # - name: ""
 #   url: ""
-url_pdf: '2024_RKJS_supp_material.pdf'
+# url_pdf: 
 url_code: 'https://github.com/lfsanche/econ_letters/tree/main/code'
 url_dataset: 'https://github.com/lfsanche/econ_letters/tree/main/data'
 # url_supp: "[PDF]()"
@@ -79,6 +79,6 @@ Click the *Cite* button above to demo the feature to enable visitors to import p
 Create your slides in Markdown - click the *Slides* button to check out the example.
 {{% /callout %}} -->
 
-
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](Rodriguez, et al, 2024, supp material.pdf).
+**Suplemental material** can be found [here](2024_RKJS_supp_material.pdf)
+<!-- 
+Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](Rodriguez, et al, 2024, supp material.pdf). -->
