@@ -7,7 +7,7 @@ author_notes:
 - "Equal contribution"
 - "Equal contribution"
 date: "February 2024"
-doi: "https://doi.org/10.1016/j.econlet.2024.111541"
+doi: "10.1016/j.econlet.2024.111541"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -28,7 +28,7 @@ abstract: Readability is a measure of how easy it is to read a text. Over time, 
  higher proportion of women co-authors are more readable. These results are robust to various readability
  measures and model specifications.
 
-# [Repositoy](https://github.com/lfsanche/econ_letters)
+# [Repositoy]()
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -40,8 +40,8 @@ featured: false
 links:
 - name: ""
   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_pdf: 'https://www.sciencedirect.com/science/article/pii/S0165176524000259'
+url_code: 'https://github.com/lfsanche/econ_letters'
 url_dataset: ''
 url_poster: ''
 url_project: ''
