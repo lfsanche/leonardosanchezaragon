@@ -8,7 +8,7 @@ author_notes:
 - "Equal contribution"
 date: "February 2024"
 doi: "10.1016/j.econlet.2024.111541"
-supp: Rodriguez, et al, 2024, supp material.pdf
+supp: "Rodriguez, et al, 2024, supp material.pdf"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
