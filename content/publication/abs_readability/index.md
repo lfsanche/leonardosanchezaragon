@@ -7,17 +7,17 @@ authors:
 - Leonardo Sánchez-Aragón
   
 author_notes:
-- 'Department of Economics, Emory University'
-- 'Bank of Canada'
-- 'Department of Economics, Emory University'
-- 'ESPOL University'
+- Department of Economics, Emory University
+- Bank of Canada
+- Department of Economics, Emory University
+- ESPOL University
 
 # date: 
 doi: "10.1016/j.econlet.2024.111541"
 
 
 # Schedule page publish date (NOT publication's date).
-# publishDate: "February 2024"
+publishDate: "February 2024"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
