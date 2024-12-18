@@ -20,7 +20,7 @@ doi: '[web](https://jareonline.org/articles/weather-derivatives-and-water-manage
 publication_types: ['article-journal']
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Agricultural and Resource Economics*, VolUMEN 42, Issue 2"
+publication: "*Journal of Agricultural and Resource Economics*, Volume 42, Issue 2"
 publication_short: JARE
 
 abstract: This paper analyzes possible improvements to water allocation from introducing weather derivatives as an insurance instrument in irrigation districts with no water markets and two cropping seasons. Dry-season production depends completely on irrigation, while wet-season production depends on irrigation as a supplement to naturally occurring precipitation. Using an analytical model of water allocation and historical data from an irrigation district in Central Mexico, simulations show that weather derivatives could encourage interseasonal reallocation of water from wet to dry season, generating new Pareto-optimal water allocations that improve overall welfare among producers. 
