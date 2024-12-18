@@ -9,9 +9,11 @@ authors:
 - Leonardo Sánchez-Aragón
   
 author_notes:
-- Department of Economics, Emory University
+- Bates White Economic Consulting, Washington, USA
+- Analysis Group Economic Consulting, Washington, USA
 - Bank of Canada
 - Department of Economics, Emory University
+- Department of Finance, Florida State University, Tallahassee, USA
 - ESPOL University
 
 date: '2024-10-01T00:00:00Z'
@@ -33,8 +35,8 @@ abstract: This paper introduces an innovative approach to identifying and estima
 # # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-# tags:
-# - Source Themes
+tags:
+- social networks; instrumental variables; causal inference; ψ-dependence
 # featured: false
 
 links:
