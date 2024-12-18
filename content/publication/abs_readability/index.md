@@ -42,7 +42,7 @@ links:
   url: ""
 # url_pdf: 'https://www.sciencedirect.com/science/article/pii/S0165176524000259'
 url_code: 'https://github.com/lfsanche/econ_letters'
-url_dataset: ''
+url_dataset: 'https://github.com/lfsanche/econ_letters'
 url_poster: ''
 url_project: ''
 url_slides: ''
