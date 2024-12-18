@@ -17,7 +17,7 @@ doi: "10.1016/j.econlet.2024.111541"
 
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "February 2024"
+date: "February 2024"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
