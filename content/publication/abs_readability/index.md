@@ -8,6 +8,7 @@ author_notes:
 - "Equal contribution"
 date: "February 2024"
 doi: "10.1016/j.econlet.2024.111541"
+supp: Rodriguez, et al, 2024, supp material.pdf
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -40,7 +41,7 @@ featured: false
 links:
 - name: ""
   url: ""
-url_pdf: 'https://www.sciencedirect.com/science/article/pii/S0165176524000259'
+# url_pdf: 'https://www.sciencedirect.com/science/article/pii/S0165176524000259'
 url_code: 'https://github.com/lfsanche/econ_letters'
 url_dataset: ''
 url_poster: ''
