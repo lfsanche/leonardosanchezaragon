@@ -41,7 +41,7 @@ links:
 # url_pdf: 'https://www.sciencedirect.com/science/article/pii/S0165176524000259'
 url_code: 'https://github.com/lfsanche/econ_letters/tree/main/code'
 url_dataset: 'https://github.com/lfsanche/econ_letters/tree/main/data'
-url_supp: " "
+url_supp: [PDF](2024_RKJS_supp_material.pdf)
 # url_project: ''
 # url_slides: ''
 # url_source: ''
@@ -66,7 +66,7 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+# slides: example
 ---
 
 <!-- {{% callout note %}}
@@ -79,6 +79,6 @@ Click the *Cite* button above to demo the feature to enable visitors to import p
 Create your slides in Markdown - click the *Slides* button to check out the example.
 {{% /callout %}} -->
 
-[PDF](2024_RKJS_supp_material.pdf)
+
 
 Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](Rodriguez, et al, 2024, supp material.pdf).
