@@ -36,8 +36,8 @@ abstract: Readability is a measure of how easy it is to read a text. Over time, 
 # featured: false
 
 links:
-- name: ""
-  url: ""
+# - name: ""
+#   url: ""
 # url_pdf: 'https://www.sciencedirect.com/science/article/pii/S0165176524000259'
 url_code: 'https://github.com/lfsanche/econ_letters/tree/main/code'
 url_dataset: 'https://github.com/lfsanche/econ_letters/tree/main/data'
