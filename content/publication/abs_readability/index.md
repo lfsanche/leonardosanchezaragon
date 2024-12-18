@@ -81,4 +81,6 @@ Click the *Cite* button above to demo the feature to enable visitors to import p
 Create your slides in Markdown - click the *Slides* button to check out the example.
 {{% /callout %}} -->
 
+[PDF](static/uploads/2024_RKJS_supp_material.pdf)
+
 Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](Rodriguez, et al, 2024, supp material.pdf).
