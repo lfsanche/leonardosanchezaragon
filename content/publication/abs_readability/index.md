@@ -7,6 +7,12 @@ authors:
 - Leonardo Sánchez-Aragón
   
 author_notes:
+- 'Department of Economics, Emory University, Rich Building 306, 1602 Fishburne Dr., Atlanta, GA 30322-2240, USA.
+ E-mail: belicia.rodriguez@outlook.com.'
+- 'Bank of Canada, 234 Wellington Ave., Ottawa ON, K1A 0G9, Canada. E-mail: khuynh@bankofcanada.ca. The views
+ expressed here do not necessarily represent the views of the Bank of Canada'
+- 'Corresponding Author. Department of Economics, Emory University, Rich Building 306, 1602 Fishburne Dr., Atlanta,GA 30322-2240, USA. E-mail: djachocha@emory.edu'
+- 'Escuela Superior Politecnica del Litoral, ESPOL, Facultad de Ciencias Sociales y Humansticas, Campus Gustavo Galindo  Km. 30.5 Va Perimetral, P.O. Box 09-01-5863, Guayaquil, Ecuador. E-mail: lfsanche@espol.edu.ec.'
 # - "Equal contribution"
 # - "Equal contribution"
 
@@ -15,7 +21,7 @@ doi: "10.1016/j.econlet.2024.111541"
 supp: "Rodriguez, et al, 2024, supp material.pdf"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "February 2024"
+# publishDate: "February 2024"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -24,7 +30,6 @@ publication_types: ['article-journal']
 
 # Publication name and optional abbreviated publication name.
 publication: "*Economics Letters*, Vol. 235"
-publication_short: '2024_RKJS_supp_material.pdf'
 
 abstract: Readability is a measure of how easy it is to read a text. Over time, general-interest journals have become more  technical. This affects how accessible research is to a general audience. Our analysis looks at how readable  abstracts are. We study the readability of abstracts of top five economics journals between 2000 2019. We collect the characteristics of the abstracts, papers, and authors of these papers. We find that abstracts with higher proportion of women co-authors are more readable. These results are robust to various readability measures and model specifications.
 
